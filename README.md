@@ -1,5 +1,9 @@
 # 💫 Hi I am Mohammad Owaish Raza Ansari(Owaish):
-🔭 I’m currently working on Projects, Dsa in Python(Solving NEETCODE)<br>🤝 I’m looking for help with Internships, guidance, hackathons.<br>🌱 I’m currently learning, dsa in Python, Machine Learning, and a lot more fundamental stuff.<br>💬 Ask me about python and visit my linkedin i have a lot of stuff on linkedin.
+Computer Science undergraduate (Gen AI) focused on Data Structures & Algorithms and problem solving using Python.
+Currently building strong fundamentals by consistently practicing DSA and understanding core concepts deeply. Also exploring machine learning to connect problem-solving with real-world applications.
+Always learning, improving, and looking for opportunities to grow as a developer.
+
+1️⃣ I’m currently working on Projects, DSA in Python(Solving NEETCODE).<br>2️⃣ I’m looking for help with Internships, guidance, hackathons.<br>3️⃣  I’m currently learning, DSA in Python, Machine Learning, and a lot more fundamental stuff.<br>4️⃣ Ask me about python and visit my linkedin I have a lot of stuff on linkedin.
 
 
 ## 🌐 Socials:
